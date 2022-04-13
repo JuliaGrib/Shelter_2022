@@ -1,0 +1,85 @@
+
+.white-header {
+    padding: 30px 0;
+}
+
+.white-logo, .white-logo__descr {
+    color: #545454;
+}
+.white-logo a {
+    color: #545454;
+}
+.white-logo__descr a {
+    text-decoration: none;
+    color: #545454;
+}
+
+.white-menu__link {
+    color: #545454;
+}
+.white-menu__link:hover {
+    color: #090808;
+}
+.white-menu__link:active {
+    color: #292929;
+    border-bottom: 3px solid #F1CDB3;
+}
+
+
+.white__hower-link {
+    color: #292929;
+    border-bottom: 3px solid #F1CDB3;
+}
+
+.our-pets {
+    display: flex;
+    justify-content: space-between;
+    margin: 29px 0 0 0;
+    flex-wrap: wrap;
+}
+
+.pet-card {
+    margin: 30px 0 0 0;
+}
+
+.navigation {
+    width: 340px;
+    padding: 58px 0 99px 0;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+.nav-btn {
+    display: flex;
+    width: 52px;
+    height: 52px;
+    border-radius: 50%;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 19px;
+    box-sizing: border-box;
+}
+
+.f-left, .f-l-left {
+    border: 2px solid #CDCDCD;
+}
+.f-left:hover {
+    cursor: default;
+}
+.f-l-left:hover {
+    cursor: default;
+}
+
+.page {
+    background-color: #F1CDB3;
+}
+.r-right, .r-r-right {
+    border: 2px solid #F1CDB3;
+}
+.r-right:hover {
+    background-color: #F1CDB3;
+}
+.r-r-right:hover {
+    background-color: #F1CDB3;
+}
